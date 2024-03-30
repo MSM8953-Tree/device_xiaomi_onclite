@@ -2,5 +2,12 @@
  {
    "repository": "android_kernel_xiaomi_onclite",
    "target_path": "kernel/xiaomi/onclite"
+ },
+ {
+   "remote"      : "github",
+   "repository"  : "LineageOS/android_hardware_xiaomi",
+   "branch"      : "lineage-21.0",
+   "clone-depth" : "1",
+   "target_path" : "hardware/xiaomi"
  }
 ]
